@@ -1,0 +1,83 @@
+Web Traffic Estimation
+
+https://www.kaggle.com/c/web-traffic-time-series-forecasting/data
+
+House Price Evaluation
+
+https://www.kaggle.com/c/zillow-prize-1
+
+
+Project Proposal Structure
+
+1> Problem Statementt
+	House Price Estimation (Background or History)
+
+	In this era of increased computational power, we have tried to solve many urgent issues to tackle problems related to all walks of life via machine learning techniques. One of the most vague and difficult problem in today's generation is house price evaluation based on historic values and geographic analysis. Experiment shows that although the data set exists serious nonlinearity, the experiment result also show Support Vector Machine (SVM) and LSSVM methods are superior to Partial Least Square Regression (PLS) on dealing with the problem of nonlinearity. 
+	
+	Many intelligent systems are used in the construction industry, and lots of them have achieved good economic and social benefits. In general, the budget of construction project and benefit analysis of construction are usually gotten by the experience of the professionals and the construction of traditional models. If the housing values can be accurately predicted, the government can make a reasonable urban planning.
+
+	The historical housing price index was used by Malpezzi in 1999 to predict the changes of prices of 133 U.S. cities [R]. He thought that the price of the house was not randomly changed but followed certain rules. The results showed that the growth of the real estate prices is associated with unemployment and consumer prices. Some experts predicted the property’s value by neural network.
+
+	There are other advanced regression techniques which gives us better results than SVM as well (like random forest and gradient boosting).
+
+	Support Vector Machine (SVM)
+
+
+
+	Need of solving such a problem
+	Putting research papers references
+
+2> Project Methodology
+	Types of techniques to be used
+	In order to predict the house price from previous data, we have used following major techniques :
+	1> SVM
+	2> Random Forest
+	3> KNN
+	4> Gradient Boosting
+	5> Artificial Neural Networking
+	6> 
+	Datasets Explaination
+
+
+	Time Planning or Estimate (Risk Assessment)
+	1>	Data Collection (24th August to 10th September)
+	2>	Data Cleaning (10th Sept to 20th September)
+	2> 	Risk Analisys (20th Sept to 1st Oct)
+			Installing R programming and python numpy, scikit learning package, 
+	3> 	Preparation of Machine Learning Model
+			Supervised Learning
+				Multiple Linear Regression (Done with coding)(1st Oct to 10th Oct)
+				SVM Model 
+				Artificial Neural Network
+
+			Unsupervised Learning
+				KNN
+				Random Forest
+				Gradient Boosting	
+	4> Training of the above model
+	5> Testing or validation of model
+
+	DataSets description
+		From Kaggle
+3> Softwares/Tools need to be used
+			R- Programming, MATLAB 2016, Anaconda (Python)
+4> Conclusion
+
+5> References
+	1> S. Malpezzi, “A simple error correction model of housing price,” Journal of Housing Economics, vol. 8, no. 1, pp. 27–62, 1999.
+
+
+
+Sebastian 
+
+MAFFT (Multiple Alignment Fast Fourier Transform)
+	It takes some form of data (protien) and it breaks into polarity and volume. It finds the correlation between polarity and volume. They find out how these sequences must be aligned.
+	Cv(k) <-> V1*(m).V2(m) 
+	complexity O(NlogN)
+	Its compared with the traditional way of finding correlation 
+	Cv(k) = sum(v1(k).V2(u+k))
+	o(N^2);
+
+
+
+		
