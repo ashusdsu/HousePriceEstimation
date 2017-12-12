@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "696608646036",
+    "firebase_url": "https://housepredictor-d4676.firebaseio.com",
+    "project_id": "housepredictor-d4676",
+    "storage_bucket": "housepredictor-d4676.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696608646036:android:a7c0bb22a1acbf85",
+        "android_client_info": {
+          "package_name": "com.example.ashu.housepredictor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696608646036-n23urf6tfl7ronl3pqitt489uelcoove.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ashu.housepredictor",
+            "certificate_hash": "8f768bcd1cef83d6636396058a2a665a00e898d3"
+          }
+        },
+        {
+          "client_id": "696608646036-eb8eqn2v37e784uth0mib7mqnpjr9khp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAmmFP-M0qwULR5q4G-IhWe0IObMIvoM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696608646036-eb8eqn2v37e784uth0mib7mqnpjr9khp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
